@@ -1,0 +1,2 @@
+rootProject.name='receive_video_socketio'
+include ':app'

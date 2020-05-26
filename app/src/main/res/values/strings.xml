@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">receive_video_socketio</string>
+    <string name="video">Video</string>
+</resources>
